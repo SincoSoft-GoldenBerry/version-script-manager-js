@@ -1,0 +1,1 @@
+# version-script-manager-js
