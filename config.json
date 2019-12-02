@@ -1,0 +1,30 @@
+{
+    "v3": {
+        "marco": {
+            "login.aspx": [
+                {
+                    "version": "24_04_2019_9:29:02.30|29_11_2019_8:51:44,64",
+                    "modules": [
+                        "special-dates/main"
+                    ]
+                }
+            ],
+            "seleccion.aspx": [
+                {
+                    "version": "24_04_2019_9:29:02.30",
+                    "modules": [
+                        "special-dates/main"
+                    ]
+                }
+            ],
+            "default.aspx": [
+                {
+                    "version": "24_04_2019_9:29:02.30",
+                    "modules": [
+                        "special-dates/main"
+                    ]
+                }
+            ]
+        }
+    }
+}
